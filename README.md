@@ -16,11 +16,11 @@ I am a professional with over 5 years of editorial experience combined with a ba
 
 ### **🚀 Featured Projects**
 
-* **[Project #1] Market Volatility Prediction via News Sentiment Analysis**
+* **[Project #1] Market Volatility Prediction via News Sentiment Analysis** [link](https://github.com/Jayk1220/1stTeamProject)
     * An integrated dashboard that predicts industrial risks by combining news sentiment data with stock market trends.
     * **Stack**: Python, Pandas, Selenium, ML, Flask.
 
-* **[Project #2] Legal RAG Chatbot for Housing Lease Protection** (In Progress)
+* **[Project #2] Legal RAG Chatbot for Housing Lease Protection** [link](https://github.com/thre3o2wo/2ndTeamProject)
     * An LLM-powered assistant optimized via Retrieval-Augmented Generation (RAG) to identify unfavorable clauses in lease contracts.
     * **Stack**: Python, NLP, LLM, RAG, OCR, Django.
 
