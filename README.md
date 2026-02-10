@@ -26,9 +26,9 @@ I am a professional with over 5 years of editorial experience combined with a ba
 
 ---
 
-### **💼 Professional Experience**
+### **💼 Professional Experience & Training**
 
-* **AI+X Convergence Professional Development Program** (MBC Academy) | *Sep 2025 – Feb 2026 (Expected)*
+* **AI+X Convergence Professional Development Program** (MBC Academy) | *Sep 2025 – Feb 2026* [link](https://github.com/thre3o2wo/ai)
     * Focusing on building Generative AI solutions, RAG architectures, and end-to-end web deployment.
 * **Director of Planning** (Prodigy Inc.) | *Feb 2022 – Sep 2024*
     * Led product planning and sales strategies, resulting in approximately 900 million KRW in additional revenue.
